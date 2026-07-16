@@ -5,7 +5,7 @@
 
     "tokenizer_path": "tokenizer/bpe/tokenizer.json",
 
-    "dataset": "datasets/processed/train/train_dataset.json",
+    "dataset": "datasets/processed/split/train.json",
 
     "checkpoint_dir": "checkpoints",
 
